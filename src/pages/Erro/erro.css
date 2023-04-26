@@ -1,0 +1,19 @@
+.notF {
+    width: 100%;
+    height: calc(100vh - 60px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.notF h1 {
+    font-size: 120px;
+}
+.notF a {
+    text-decoration: none;
+    background-color: coral;
+    color: #fff;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 10px;
+}
